@@ -10,6 +10,8 @@ Explored revenue trends, ROI by budget, and popularity patterns.
 
 ## 📊 Tools Used
 Python · pandas · matplotlib · Power BI Desktop
+![Dashboard Preview](<img width="1373" height="748" alt="tmdb_Movie" src="https://github.com/user-attachments/assets/c21a0243-0c6b-4670-9acd-24efcc132c0b" />
+)
 
 ## 📁 Files
 - `tmbd_movie.ipynb` — full Python analysis
